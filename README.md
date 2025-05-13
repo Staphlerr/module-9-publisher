@@ -23,4 +23,9 @@ It means both the publisher and the subscriber connect to the same RabbitMQ brok
 #### c. Screenshot of Running RabbitMQ
 ![alt text](image.png)
 
+#### d. Screenshot of making connection to the message
+![alt text](image-1.png)
+
+#### e. Screenshot of Subscriber console when making connection
+![alt text](image-2.png)
 </details>
