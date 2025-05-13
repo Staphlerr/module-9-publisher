@@ -20,4 +20,7 @@ In one run, the publisher sends five UserCreatedEventMessage events. Each event 
 
 It means both the publisher and the subscriber connect to the same RabbitMQ broker instance (running locally on port 5672) using the guest user credentials. This shared connection ensures that events published by the publisher are delivered to the queue from which the subscriber consumes.
 
+#### c. Screenshot of Running RabbitMQ
+![alt text](image.png)
+
 </details>
