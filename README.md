@@ -28,4 +28,7 @@ It means both the publisher and the subscriber connect to the same RabbitMQ brok
 
 #### e. Screenshot of Subscriber console when making connection
 ![alt text](image-2.png)
+
+#### f. Screenshot of Spikes on Second Chart
+![alt text](image-3.png)
 </details>
